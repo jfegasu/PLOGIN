@@ -1,0 +1,11 @@
+@app.route("/paso1")
+def Paso1():
+    try:
+        cur = mysql.connection.cursor()
+        return render_template("paso1.html")
+    except Exception as e:
+        msgito="NO HA VALIDADO CREDENCIALES"
+        regreso="/"
+        # logger.error('ERROR: '+msgito+' ')
+        Au.registra(40,msgito,'')
+        return render_template("alerta.html", msgito=msgito,regreso=regreso)

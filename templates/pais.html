@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}<center><BR>
+    <div class="sena-titulo" style="font-size: 14pt;font-weight: bold;width:55rem;">
+        <h5 class="w3-green">PAISES</h5>
+</div>
+    
+    <div class="sena-div" style="width: 55rem;height: 35rem;">
+        
+<table class="table table-striped sena-borde    ">
+    <th>NOMBRE PAIS</th> <th>REGION</th></tR>
+{% for datos in cadena %}
+<tr><td>{{datos[2]}}</td><td>{{datos[3]}}</td>
+</tr>
+{% endfor %}
+</table>
+<br><br>
+</div>
+<br><br>
+</div>
+<br>
+{% endblock content %}

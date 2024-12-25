@@ -1,0 +1,16 @@
+@app.route("/region")
+def Region():
+    try:
+        cur = mysql.connection.cursor()
+        cur.execute("select * from regions")
+        cadena=cur.fetchall()
+
+        Au.registra(30,'Ingresa a regions ',app.config['MYSQL_USER'])
+        
+        return render_template("region.html",cadena=cadena)
+    except Exception as e:
+        msgito="NO TIENE ACCESO <region>"
+        regreso="/paso1"
+        Au.registra(40,msgito,'')
+        
+        return render_template("alerta.html", msgito=msgito,regreso=regreso) 

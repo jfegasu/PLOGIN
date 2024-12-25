@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}<center><BR>
+    <div class="coard  mx-auto sena-div" style="width: 55rem;">
+        
+        <div class="sena-color" style="width:55rem;">
+            <h5 class="sena-text-yellow"> REGIONES</h5></div>
+<table class="table table-striped sena-borde">
+    <th>NOMBRE REGION</th></tR>
+{% for datos in cadena %}
+<tr><td>{{datos[1]}}</td>
+</tr>
+{% endfor %}
+</table>
+</div>
+<br>
+{% endblock content %}

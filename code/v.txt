@@ -1,0 +1,27 @@
+@app.route("/v",methods=['POST'])
+def Raiz1():
+    if request.method == 'POST':
+        usua = request.form.get('usua')
+        pw = request.form.get('pw')
+        try:
+            app.config['MYSQL_HOST'] = 'localhost'
+            app.config['MYSQL_USER'] = usua
+            app.config['MYSQL_PASSWORD'] = pw
+            app.config['MYSQL_DB'] = 'hr'
+            cur = mysql.connection.cursor()
+            # cur.execute("select count(*) from regions")
+            # cadena=cur.fetchall()
+            # return render_template("region.html", cadena=cadena)
+            msgito="BIENVENIDO"
+            regreso="/paso1"
+            # logger.error('INFO: ingresa '+usua)
+            Au.registra(30,msgito,usua )
+            return render_template("alerta.html", msgito=msgito,regreso=regreso)
+        except Exception as e:
+            msgito="USUARIO O CREDENCIALES NO VALIDOS"
+            regreso="/"
+            usua=''
+            Au.registra(40,msgito)
+            return render_template("alerta.html", msgito=msgito,regreso=regreso)
+
+    return usua
