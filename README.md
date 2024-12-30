@@ -27,3 +27,6 @@
 ## TEMPLATES
 |NOMBRE|DESCRIPCION|
 |:---|:---|
+|alerta.html|
+|banner.html|
+
