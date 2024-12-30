@@ -23,3 +23,7 @@
 |/pais|PAISES|pais.html|
 |||/|SESION CADUCADA|
 |||/paso1|NO TIENE ACCESO <region>|
+
+## TEMPLATES
+|NOMBRE|DESCRIPCION|
+|:---|:---|
