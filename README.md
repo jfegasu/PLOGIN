@@ -13,4 +13,6 @@
 |||/|Error: No cumple con las condiciones:\nAl menos debe haber Una Mayuscula, \nUn numero, Una minuscula,\n un caracter especial,\n una longitud minima de 12 caracteres|
 |||/|FALLO CAMBIO DE CLAVE|
 |||/|CAMBIO SATISFACTORIO DE CLAVE
-|/region|REGIONES||
+|/region|REGIONES|region.html|
+|||/|SESION CADUCADA|
+|||/paso1|NO TIENE ACCESO <region>|
