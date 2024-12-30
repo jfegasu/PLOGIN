@@ -37,4 +37,4 @@
 |region.tml|
 
 ## BASE DE DATOS HR
-Tablas y datos: [HR](https://github.com/jfegasu/PLOGIN/blob/main/DATASET/HRMYSQL.sql)
+Tablas, realciones y datos: [HR](https://github.com/jfegasu/PLOGIN/blob/main/DATASET/HRMYSQL.sql)
