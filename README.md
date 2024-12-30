@@ -35,3 +35,6 @@
 |clogin.html|
 |pais.html|
 |region.tml|
+
+## BASE DE DATOS HR
+[HR]()
