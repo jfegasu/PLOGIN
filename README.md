@@ -57,7 +57,9 @@ SQLITE={
 }
 </pre>
 ### ASIGNACION
+<pre>
 DATABASE=MYSQL
+</pre>
 ### UTILIZACION
 <pre>
 def CargarBD(cual):
