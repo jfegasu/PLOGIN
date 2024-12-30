@@ -150,3 +150,21 @@ class Utiles(Auditor):
         else:
             return False
 </pre>
+## REGISTRAR EN EL REGEDIT
+<pre>
+def RegEdInicio(clave,Valor):
+    reg_key = winreg.CreateKey(winreg.HKEY_CURRENT_USER, "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run")
+    winreg.SetValueEx(reg_key, clave, 0, winreg.REG_SZ, Valor)
+    winreg.CloseKey(reg_key)   
+ 
+def RegEdCrea(clave, Valor):
+    reg_key = winreg.CreateKey(winreg.HKEY_CURRENT_USER, r"SOFTWARE\InventaDB") 
+    winreg.SetValueEx(reg_key, clave, 0, winreg.REG_SZ, Valor) 
+    winreg.CloseKey(reg_key)
+    return "Ok"
+
+def getRegEd(clave):
+    reg_key = winreg.OpenKey(winreg.HKEY_CURRENT_USER, r"SOFTWARE\InventaDB")
+    valor, tipo = winreg.QueryValueEx(reg_key, clave)
+    return valor                   
+</pre>
