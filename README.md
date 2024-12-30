@@ -17,3 +17,5 @@
 |||/|SESION CADUCADA|
 |||/paso1|NO TIENE ACCESO <region>|
 |/pais|PAISES|pais.html|
+|||/|SESION CADUCADA|
+|||/paso1|NO TIENE ACCESO <region>|
