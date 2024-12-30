@@ -1,4 +1,5 @@
 # PLOGIN
+##RUTAS (ENDPOINT)
 |ENDPOINT|NOMBRE|REDIRECCIONA|EXCEPCION|
 |:---|:--|:--|:---|
 | / |RAIZ 127.0.0.1:5000| login.htm|
