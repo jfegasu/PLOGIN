@@ -58,10 +58,10 @@ SQLITE={
 DATABASE=MYSQL
 ### UTILIZACION
 <pre>
-def CargarBD(cual):<BR>
-    MY=list(DATABASE.items())<BR>
-    for i in range(len(MY)):<BR>
-        cual[f"'{MY[i][0]}'"]=MY[i][1]<BR>
+def CargarBD(cual):
+    MY=list(DATABASE.items())
+    for i in range(len(MY)):
+        cual[f"'{MY[i][0]}'"]=MY[i][1]
 </pre>
 
 # LOG DE TRANSACCIONES
