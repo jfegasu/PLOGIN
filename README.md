@@ -51,9 +51,11 @@ MYSQL={
     }
     </pre>
 ### SQLITE
+<pre>
 SQLITE={
     'SQLITE_DB': 'hr'
 }
+</pre>
 ### ASIGNACION
 DATABASE=MYSQL
 ### UTILIZACION
