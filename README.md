@@ -41,9 +41,15 @@ Tablas, relaciones y datos: [HR](https://github.com/jfegasu/PLOGIN/blob/main/DAT
 
 ## CONIGURACION DE BASE DE DATOS
 
-###
- MYSQL
-MYSQL={'MYSQL_HOST':'localhost', 'MYSQL_USER':'prueba','MYSQL_PASSWORD':'prueba','MYSQL_DB': 'hr'}
+### MYSQL
+<pre>
+MYSQL={
+    'MYSQL_HOST':'localhost', 
+    'MYSQL_USER':'prueba',
+    'MYSQL_PASSWORD':'prueba',
+    'MYSQL_DB': 'hr'
+    }
+    </pre>
 ### SQLITE
 SQLITE={
     'SQLITE_DB': 'hr'
