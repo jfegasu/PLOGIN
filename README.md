@@ -41,13 +41,13 @@ Tablas, relaciones y datos: [HR](https://github.com/jfegasu/PLOGIN/blob/main/DAT
 
 ## CONIGURACION DE BASE DE DATOS
 
-| MYSQL|
+| MYSQL|SQLITE|
 |:---|
 | MYSQL={'MYSQL_HOST':'localhost', 'MYSQL_USER':'prueba','MYSQL_PASSWORD':'prueba','MYSQL_DB': 'hr'}|
-SQLITE={
+|SQLITE={
     'SQLITE_DB': 'hr'
 }
-
+|
 DATABASE=MYSQL
 
 def CargarBD(cual):
