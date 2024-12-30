@@ -29,4 +29,9 @@
 |:---|:---|
 |alerta.html|
 |banner.html|
-
+|base.html|
+|login.html|
+|paso1.html|
+|clogin.html|
+|pais.html|
+|region.tml|
