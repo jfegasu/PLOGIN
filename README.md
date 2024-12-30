@@ -1,5 +1,5 @@
 # PROYECTO PLOGIN
-<IMG SRC="https://drive.google.com/file/d/1j9zxGWRbHQyPl5eEcaWMQvPky5Mq3VIQ/view?usp=sharing">
+<img src='https://drive.google.com/file/d/1j9zxGWRbHQyPl5eEcaWMQvPky5Mq3VIQ/view?usp=sharing' height=250>
 ## RUTAS (ENDPOINT)
 |ENDPOINT|NOMBRE|REDIRECCIONA|EXCEPCION|
 |:---|:--|:--|:---|
