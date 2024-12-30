@@ -39,7 +39,7 @@
 ## BASE DE DATOS HR
 Tablas, relaciones y datos: [HR](https://github.com/jfegasu/PLOGIN/blob/main/DATASET/HRMYSQL.sql)
 
-## CONIGURACION DE BASE DE DATOS
+## CONFIGURACION DE BASE DE DATOS
 
 ### MYSQL
 <pre>
