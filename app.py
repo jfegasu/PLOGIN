@@ -51,10 +51,10 @@ def Raiz1():
             return render_template("alerta.html", msgito=msgito,regreso=regreso)
 
         try:
-            app.config['MYSQL_HOST'] = 'localhost'
+            # app.config['MYSQL_HOST'] = 'localhost'
             app.config['MYSQL_USER'] = usua
             app.config['MYSQL_PASSWORD'] = pw
-            app.config['MYSQL_DB'] = 'hr'
+            # app.config['MYSQL_DB'] = 'hr'
             cur = mysql.connection.cursor()
             
             msgito="BIENVENIDO"

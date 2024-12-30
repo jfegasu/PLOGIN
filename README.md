@@ -1,1 +1,3 @@
 # PLOGIN
+|ENCODE|TEMPLATES|
+|:---|:--|

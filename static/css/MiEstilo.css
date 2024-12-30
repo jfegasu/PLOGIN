@@ -166,7 +166,7 @@ select{
   }
   .sena-btn {
   cursor:pointer;    
-  background: url("https://siomi.datasena.com/bt1.jpg") no-repeat right center;  
+  background: url("btn1.png") no-repeat right center;  
   text-align: center;
   height: 40px;
   font-size: 10pt;
@@ -189,14 +189,15 @@ select{
   border: 1px solid #000000;
   background-color: rgb(250, 247, 247);
   color:black;
-  vertical-align: middle;;
+  vertical-align: middle;
+  height: 40px;
   }
   .sena-btn,.sena-btns:hover{
     background-color:#eaf39c;
   }
     .sena-btns:hover{
         background-color:#eaf39c;
-        background-color:yellow;
+        background-color:rgb(55, 240, 8);
   }.sena-btns {
     cursor:pointer;    
      text-align: left;
