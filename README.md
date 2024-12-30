@@ -41,13 +41,9 @@ Tablas, relaciones y datos: [HR](https://github.com/jfegasu/PLOGIN/blob/main/DAT
 
 ## CONIGURACION DE BASE DE DATOS
 
-
-|MYSQL={'MYSQL_HOST':'localhost',
-'MYSQL_USER':'prueba',
-'MYSQL_PASSWORD':'prueba',
-'MYSQL_DB': 'hr'
-}
-
+| MYSQL|
+|:---|
+| MYSQL={'MYSQL_HOST':'localhost', 'MYSQL_USER':'prueba','MYSQL_PASSWORD':'prueba','MYSQL_DB': 'hr'}|
 SQLITE={
     'SQLITE_DB': 'hr'
 }
@@ -58,4 +54,4 @@ def CargarBD(cual):
     MY=list(DATABASE.items())
     for i in range(len(MY)):
         cual[f"'{MY[i][0]}'"]=MY[i][1]
-|
+|       
