@@ -108,7 +108,7 @@ class Auditor():
         elif tipo==60:
             self.logger.exception(client_ip+' '+msg+' '+usua)
 </pre>
-## DETECTOR DE SQL INJECTION
+# DETECTOR DE SQL INJECTION
 <pre>
 class Utiles(Auditor):
     
@@ -150,7 +150,7 @@ class Utiles(Auditor):
         else:
             return False
 </pre>
-## REGISTRAR EN EL REGEDIT
+# REGISTRAR EN EL REGEDIT
 <pre>
 def RegEdInicio(clave,Valor):
     reg_key = winreg.CreateKey(winreg.HKEY_CURRENT_USER, "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run")
