@@ -1,0 +1,3999 @@
+[{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03662"
+  },
+  "ID_de_caso": 1,
+  "Fecha": "2020-03-02T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 19,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ITALIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03663"
+  },
+  "ID_de_caso": 2,
+  "Fecha": "2020-03-06T00:00:00.000",
+  "Código_DIVIPOLA": 76111,
+  "Ciudad_de_ubicación": "Guadalajara de Buga",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 34,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03664"
+  },
+  "ID_de_caso": 3,
+  "Fecha": "2020-03-07T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 50,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03665"
+  },
+  "ID_de_caso": 4,
+  "Fecha": "2020-03-09T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 55,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03666"
+  },
+  "ID_de_caso": 5,
+  "Fecha": "2020-03-09T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 25,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03667"
+  },
+  "ID_de_caso": 6,
+  "Fecha": "2020-03-10T00:00:00.000",
+  "Código_DIVIPOLA": 5360,
+  "Ciudad_de_ubicación": "Itagüí",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 27,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03668"
+  },
+  "ID_de_caso": 7,
+  "Fecha": "2020-03-08T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 85,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03669"
+  },
+  "ID_de_caso": 8,
+  "Fecha": "2020-03-09T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 22,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0366a"
+  },
+  "ID_de_caso": 9,
+  "Fecha": "2020-03-08T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0366b"
+  },
+  "ID_de_caso": 10,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 36,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0366c"
+  },
+  "ID_de_caso": 11,
+  "Fecha": "2020-03-11T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 42,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0366d"
+  },
+  "ID_de_caso": 12,
+  "Fecha": "2020-03-10T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 74,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ITALIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0366e"
+  },
+  "ID_de_caso": 13,
+  "Fecha": "2020-03-10T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 68,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0366f"
+  },
+  "ID_de_caso": 14,
+  "Fecha": "2020-03-10T00:00:00.000",
+  "Código_DIVIPOLA": 76520,
+  "Ciudad_de_ubicación": "Palmira",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 48,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03670"
+  },
+  "ID_de_caso": 15,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 50001,
+  "Ciudad_de_ubicación": "Villavicencio",
+  "Departamento_o_Distrito_": "Meta",
+  "atención": "Recuperado",
+  "Edad": 30,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03671"
+  },
+  "ID_de_caso": 16,
+  "Fecha": "2020-03-11T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 61,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ITALIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03672"
+  },
+  "ID_de_caso": 17,
+  "Fecha": "2020-03-11T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 73,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03673"
+  },
+  "ID_de_caso": 18,
+  "Fecha": "2020-03-11T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 54,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03674"
+  },
+  "ID_de_caso": 19,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 54,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03675"
+  },
+  "ID_de_caso": 20,
+  "Fecha": "2020-03-11T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 26,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03676"
+  },
+  "ID_de_caso": 21,
+  "Fecha": "2020-03-11T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03677"
+  },
+  "ID_de_caso": 22,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 5615,
+  "Ciudad_de_ubicación": "Rionegro",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 36,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03678"
+  },
+  "ID_de_caso": 23,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 23,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03679"
+  },
+  "ID_de_caso": 24,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 18,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0367a"
+  },
+  "ID_de_caso": 25,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 49,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0367b"
+  },
+  "ID_de_caso": 26,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 30,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0367c"
+  },
+  "ID_de_caso": 27,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 30,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0367d"
+  },
+  "ID_de_caso": 28,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 66170,
+  "Ciudad_de_ubicación": "Dosquebradas",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 22,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0367e"
+  },
+  "ID_de_caso": 29,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 55,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0367f"
+  },
+  "ID_de_caso": 30,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 54001,
+  "Ciudad_de_ubicación": "Cúcuta",
+  "Departamento_o_Distrito_": "Norte de Santander",
+  "atención": "Recuperado",
+  "Edad": 48,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03680"
+  },
+  "ID_de_caso": 31,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 17001,
+  "Ciudad_de_ubicación": "Manizales",
+  "Departamento_o_Distrito_": "Caldas",
+  "atención": "Recuperado",
+  "Edad": 65,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03681"
+  },
+  "ID_de_caso": 32,
+  "Fecha": "2020-03-11T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 55,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03682"
+  },
+  "ID_de_caso": 33,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 59,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03683"
+  },
+  "ID_de_caso": 34,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 23,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03684"
+  },
+  "ID_de_caso": 35,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 54,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03685"
+  },
+  "ID_de_caso": 36,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 72,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03686"
+  },
+  "ID_de_caso": 37,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 45,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03687"
+  },
+  "ID_de_caso": 38,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 29,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03688"
+  },
+  "ID_de_caso": 39,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 21,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03689"
+  },
+  "ID_de_caso": 40,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 23,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0368a"
+  },
+  "ID_de_caso": 41,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 79,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0368b"
+  },
+  "ID_de_caso": 42,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 52,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0368c"
+  },
+  "ID_de_caso": 43,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 71,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0368d"
+  },
+  "ID_de_caso": 44,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 24,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0368e"
+  },
+  "ID_de_caso": 45,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 25769,
+  "Ciudad_de_ubicación": "Subachoque",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 29,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0368f"
+  },
+  "ID_de_caso": 46,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 44,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03690"
+  },
+  "ID_de_caso": 47,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 38,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03691"
+  },
+  "ID_de_caso": 48,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 31,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03692"
+  },
+  "ID_de_caso": 49,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 41,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03693"
+  },
+  "ID_de_caso": 50,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 67,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03694"
+  },
+  "ID_de_caso": 51,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 25754,
+  "Ciudad_de_ubicación": "Soacha",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 24,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ECUADOR"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03695"
+  },
+  "ID_de_caso": 52,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 29,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03696"
+  },
+  "ID_de_caso": 53,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 62,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03697"
+  },
+  "ID_de_caso": 54,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 42,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03698"
+  },
+  "ID_de_caso": 55,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 58,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03699"
+  },
+  "ID_de_caso": 56,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 34,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0369a"
+  },
+  "ID_de_caso": 57,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 37,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0369b"
+  },
+  "ID_de_caso": 58,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 27,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0369c"
+  },
+  "ID_de_caso": 59,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 8001,
+  "Ciudad_de_ubicación": "Barranquilla",
+  "Departamento_o_Distrito_": "Barranquilla D.E.",
+  "atención": "Recuperado",
+  "Edad": 20,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0369d"
+  },
+  "ID_de_caso": 60,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 68276,
+  "Ciudad_de_ubicación": "Floridablanca",
+  "Departamento_o_Distrito_": "Santander",
+  "atención": "Recuperado",
+  "Edad": 24,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0369e"
+  },
+  "ID_de_caso": 61,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 8001,
+  "Ciudad_de_ubicación": "Barranquilla",
+  "Departamento_o_Distrito_": "Barranquilla D.E.",
+  "atención": "Recuperado",
+  "Edad": 21,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0369f"
+  },
+  "ID_de_caso": 62,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 32,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ITALIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a0"
+  },
+  "ID_de_caso": 63,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 26,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "FRANCIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a1"
+  },
+  "ID_de_caso": 64,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 31,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a2"
+  },
+  "ID_de_caso": 65,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 64,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a3"
+  },
+  "ID_de_caso": 66,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 40,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a4"
+  },
+  "ID_de_caso": 67,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 21,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a5"
+  },
+  "ID_de_caso": 68,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 72,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a6"
+  },
+  "ID_de_caso": 69,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 22,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a7"
+  },
+  "ID_de_caso": 70,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 37,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "TURQUÍA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a8"
+  },
+  "ID_de_caso": 71,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 54001,
+  "Ciudad_de_ubicación": "Cúcuta",
+  "Departamento_o_Distrito_": "Norte de Santander",
+  "atención": "Recuperado",
+  "Edad": 54,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036a9"
+  },
+  "ID_de_caso": 72,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 54001,
+  "Ciudad_de_ubicación": "Cúcuta",
+  "Departamento_o_Distrito_": "Norte de Santander",
+  "atención": "Recuperado",
+  "Edad": 22,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036aa"
+  },
+  "ID_de_caso": 73,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 54,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ab"
+  },
+  "ID_de_caso": 74,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 18,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ac"
+  },
+  "ID_de_caso": 75,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 49,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ad"
+  },
+  "ID_de_caso": 76,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 63001,
+  "Ciudad_de_ubicación": "Armenia",
+  "Departamento_o_Distrito_": "Quindío",
+  "atención": "Recuperado",
+  "Edad": 46,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ITALIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ae"
+  },
+  "ID_de_caso": 77,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 63001,
+  "Ciudad_de_ubicación": "Armenia",
+  "Departamento_o_Distrito_": "Quindío",
+  "atención": "Recuperado",
+  "Edad": 18,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036af"
+  },
+  "ID_de_caso": 78,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 76520,
+  "Ciudad_de_ubicación": "Palmira",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 39,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b0"
+  },
+  "ID_de_caso": 79,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 76520,
+  "Ciudad_de_ubicación": "Palmira",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 9,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b1"
+  },
+  "ID_de_caso": 80,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 76520,
+  "Ciudad_de_ubicación": "Palmira",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 53,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b2"
+  },
+  "ID_de_caso": 81,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 49,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b3"
+  },
+  "ID_de_caso": 82,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 54,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b4"
+  },
+  "ID_de_caso": 83,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 56,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b5"
+  },
+  "ID_de_caso": 84,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 51,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ECUADOR"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b6"
+  },
+  "ID_de_caso": 85,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 42,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b7"
+  },
+  "ID_de_caso": 86,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 66001,
+  "Ciudad_de_ubicación": "Pereira",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 29,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "FRANCIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b8"
+  },
+  "ID_de_caso": 87,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 25126,
+  "Ciudad_de_ubicación": "Cajicá",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 45,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036b9"
+  },
+  "ID_de_caso": 88,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 73001,
+  "Ciudad_de_ubicación": "Ibagué",
+  "Departamento_o_Distrito_": "Tolima",
+  "atención": "Recuperado",
+  "Edad": 36,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ba"
+  },
+  "ID_de_caso": 89,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 68001,
+  "Ciudad_de_ubicación": "Bucaramanga",
+  "Departamento_o_Distrito_": "Santander",
+  "atención": "Recuperado",
+  "Edad": 39,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036bb"
+  },
+  "ID_de_caso": 90,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 53,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036bc"
+  },
+  "ID_de_caso": 91,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 25126,
+  "Ciudad_de_ubicación": "Cajicá",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 32,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036bd"
+  },
+  "ID_de_caso": 92,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 50,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036be"
+  },
+  "ID_de_caso": 93,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 26,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036bf"
+  },
+  "ID_de_caso": 94,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 53,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c0"
+  },
+  "ID_de_caso": 95,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 69,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "TURQUÍA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c1"
+  },
+  "ID_de_caso": 96,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 37,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c2"
+  },
+  "ID_de_caso": 97,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 24,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c3"
+  },
+  "ID_de_caso": 98,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 21,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c4"
+  },
+  "ID_de_caso": 99,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 73001,
+  "Ciudad_de_ubicación": "Ibagué",
+  "Departamento_o_Distrito_": "Tolima",
+  "atención": "Recuperado",
+  "Edad": 16,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c5"
+  },
+  "ID_de_caso": 100,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 66001,
+  "Ciudad_de_ubicación": "Pereira",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 21,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c6"
+  },
+  "ID_de_caso": 101,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 66170,
+  "Ciudad_de_ubicación": "Dosquebradas",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 18,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c7"
+  },
+  "ID_de_caso": 102,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 66001,
+  "Ciudad_de_ubicación": "Pereira",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 79,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c8"
+  },
+  "ID_de_caso": 103,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 24,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036c9"
+  },
+  "ID_de_caso": 104,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 8001,
+  "Ciudad_de_ubicación": "Barranquilla",
+  "Departamento_o_Distrito_": "Barranquilla D.E.",
+  "atención": "Recuperado",
+  "Edad": 48,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ca"
+  },
+  "ID_de_caso": 105,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 76520,
+  "Ciudad_de_ubicación": "Palmira",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 23,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036cb"
+  },
+  "ID_de_caso": 106,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 44,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036cc"
+  },
+  "ID_de_caso": 107,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 56,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036cd"
+  },
+  "ID_de_caso": 108,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 57,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ce"
+  },
+  "ID_de_caso": 109,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 54,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036cf"
+  },
+  "ID_de_caso": 110,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 62,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d0"
+  },
+  "ID_de_caso": 111,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 60,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d1"
+  },
+  "ID_de_caso": 112,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 30,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d2"
+  },
+  "ID_de_caso": 113,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 33,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ITALIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d3"
+  },
+  "ID_de_caso": 114,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 49,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d4"
+  },
+  "ID_de_caso": 115,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 29,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ECUADOR"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d5"
+  },
+  "ID_de_caso": 116,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 40,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d6"
+  },
+  "ID_de_caso": 117,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 54001,
+  "Ciudad_de_ubicación": "Cúcuta",
+  "Departamento_o_Distrito_": "Norte de Santander",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d7"
+  },
+  "ID_de_caso": 118,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 54001,
+  "Ciudad_de_ubicación": "Cúcuta",
+  "Departamento_o_Distrito_": "Norte de Santander",
+  "atención": "Recuperado",
+  "Edad": 50,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d8"
+  },
+  "ID_de_caso": 119,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 54001,
+  "Ciudad_de_ubicación": "Cúcuta",
+  "Departamento_o_Distrito_": "Norte de Santander",
+  "atención": "Recuperado",
+  "Edad": 24,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036d9"
+  },
+  "ID_de_caso": 120,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 63001,
+  "Ciudad_de_ubicación": "Armenia",
+  "Departamento_o_Distrito_": "Quindío",
+  "atención": "Recuperado",
+  "Edad": 23,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036da"
+  },
+  "ID_de_caso": 121,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 19001,
+  "Ciudad_de_ubicación": "Popayán",
+  "Departamento_o_Distrito_": "Cauca",
+  "atención": "Recuperado",
+  "Edad": 61,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036db"
+  },
+  "ID_de_caso": 122,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 19001,
+  "Ciudad_de_ubicación": "Popayán",
+  "Departamento_o_Distrito_": "Cauca",
+  "atención": "Recuperado",
+  "Edad": 32,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036dc"
+  },
+  "ID_de_caso": 123,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 17877,
+  "Ciudad_de_ubicación": "Viterbo",
+  "Departamento_o_Distrito_": "Caldas",
+  "atención": "Recuperado",
+  "Edad": 38,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036dd"
+  },
+  "ID_de_caso": 124,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 76,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036de"
+  },
+  "ID_de_caso": 125,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 47,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036df"
+  },
+  "ID_de_caso": 126,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 8001,
+  "Ciudad_de_ubicación": "Barranquilla",
+  "Departamento_o_Distrito_": "Barranquilla D.E.",
+  "atención": "Recuperado",
+  "Edad": 52,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e0"
+  },
+  "ID_de_caso": 127,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 8001,
+  "Ciudad_de_ubicación": "Barranquilla",
+  "Departamento_o_Distrito_": "Barranquilla D.E.",
+  "atención": "Recuperado",
+  "Edad": 30,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e1"
+  },
+  "ID_de_caso": 128,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 25754,
+  "Ciudad_de_ubicación": "Soacha",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 58,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e2"
+  },
+  "ID_de_caso": 129,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 66001,
+  "Ciudad_de_ubicación": "Pereira",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 26,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e3"
+  },
+  "ID_de_caso": 130,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 25035,
+  "Ciudad_de_ubicación": "Anapoima",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 53,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e4"
+  },
+  "ID_de_caso": 131,
+  "Fecha": "2020-03-15T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 22,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e5"
+  },
+  "ID_de_caso": 132,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 33,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e6"
+  },
+  "ID_de_caso": 133,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 5615,
+  "Ciudad_de_ubicación": "Rionegro",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 51,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e7"
+  },
+  "ID_de_caso": 134,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 5380,
+  "Ciudad_de_ubicación": "La Estrella",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e8"
+  },
+  "ID_de_caso": 135,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 44,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ALEMANIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036e9"
+  },
+  "ID_de_caso": 136,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 37,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ea"
+  },
+  "ID_de_caso": 137,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 5266,
+  "Ciudad_de_ubicación": "Envigado",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 54,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036eb"
+  },
+  "ID_de_caso": 138,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 54,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ECUADOR"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ec"
+  },
+  "ID_de_caso": 139,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 30,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ed"
+  },
+  "ID_de_caso": 140,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 34,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "BRASIL"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ee"
+  },
+  "ID_de_caso": 141,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 62,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "CROACIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ef"
+  },
+  "ID_de_caso": 142,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 35,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "PANAMA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f0"
+  },
+  "ID_de_caso": 143,
+  "Fecha": "2020-03-14T00:00:00.000",
+  "Código_DIVIPOLA": 5266,
+  "Ciudad_de_ubicación": "Envigado",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 46,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f1"
+  },
+  "ID_de_caso": 144,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 41,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "PANAMA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f2"
+  },
+  "ID_de_caso": 145,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 18,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f3"
+  },
+  "ID_de_caso": 146,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 25754,
+  "Ciudad_de_ubicación": "Soacha",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 31,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f4"
+  },
+  "ID_de_caso": 147,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 25754,
+  "Ciudad_de_ubicación": "Soacha",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 25,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f5"
+  },
+  "ID_de_caso": 148,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 32,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f6"
+  },
+  "ID_de_caso": 149,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 37,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ALEMANIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f7"
+  },
+  "ID_de_caso": 150,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 29,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ITALIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f8"
+  },
+  "ID_de_caso": 151,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 47,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ECUADOR"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036f9"
+  },
+  "ID_de_caso": 152,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Fallecido",
+  "Edad": 65,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Fallecido",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036fa"
+  },
+  "ID_de_caso": 153,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Fallecido",
+  "Edad": 53,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Fallecido",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036fb"
+  },
+  "ID_de_caso": 154,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 40,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "JAMAICA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036fc"
+  },
+  "ID_de_caso": 155,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 47001,
+  "Ciudad_de_ubicación": "Santa Marta",
+  "Departamento_o_Distrito_": "Santa Marta D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 20,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036fd"
+  },
+  "ID_de_caso": 156,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 25175,
+  "Ciudad_de_ubicación": "Chía",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036fe"
+  },
+  "ID_de_caso": 157,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 47001,
+  "Ciudad_de_ubicación": "Santa Marta",
+  "Departamento_o_Distrito_": "Santa Marta D.T. y C.",
+  "atención": "Fallecido",
+  "Edad": 88,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Fallecido",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde036ff"
+  },
+  "ID_de_caso": 158,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 25430,
+  "Ciudad_de_ubicación": "Madrid",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 32,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03700"
+  },
+  "ID_de_caso": 159,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 34,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03701"
+  },
+  "ID_de_caso": 160,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 42,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03702"
+  },
+  "ID_de_caso": 161,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 22,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03703"
+  },
+  "ID_de_caso": 162,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 25,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03704"
+  },
+  "ID_de_caso": 163,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03705"
+  },
+  "ID_de_caso": 164,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 67,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03706"
+  },
+  "ID_de_caso": 165,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 32,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03707"
+  },
+  "ID_de_caso": 166,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 45,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03708"
+  },
+  "ID_de_caso": 167,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 46,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03709"
+  },
+  "ID_de_caso": 168,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 25,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0370a"
+  },
+  "ID_de_caso": 169,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 42,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0370b"
+  },
+  "ID_de_caso": 170,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 45,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "GRECIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0370c"
+  },
+  "ID_de_caso": 171,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 21,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0370d"
+  },
+  "ID_de_caso": 172,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 27,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0370e"
+  },
+  "ID_de_caso": 173,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 65,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "MÉXICO"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0370f"
+  },
+  "ID_de_caso": 174,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 70,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "MÉXICO"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03710"
+  },
+  "ID_de_caso": 175,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 23,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03711"
+  },
+  "ID_de_caso": 176,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 73001,
+  "Ciudad_de_ubicación": "Ibagué",
+  "Departamento_o_Distrito_": "Tolima",
+  "atención": "Recuperado",
+  "Edad": 26,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03712"
+  },
+  "ID_de_caso": 177,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03713"
+  },
+  "ID_de_caso": 178,
+  "Fecha": "2020-03-21T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03714"
+  },
+  "ID_de_caso": 179,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 44,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03715"
+  },
+  "ID_de_caso": 180,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 54874,
+  "Ciudad_de_ubicación": "Villa del Rosario",
+  "Departamento_o_Distrito_": "Norte de Santander",
+  "atención": "Recuperado",
+  "Edad": 27,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03716"
+  },
+  "ID_de_caso": 181,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 17001,
+  "Ciudad_de_ubicación": "Manizales",
+  "Departamento_o_Distrito_": "Caldas",
+  "atención": "Recuperado",
+  "Edad": 22,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03717"
+  },
+  "ID_de_caso": 182,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 54001,
+  "Ciudad_de_ubicación": "Cúcuta",
+  "Departamento_o_Distrito_": "Norte de Santander",
+  "atención": "Recuperado",
+  "Edad": 44,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03718"
+  },
+  "ID_de_caso": 183,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 48,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ECUADOR"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03719"
+  },
+  "ID_de_caso": 184,
+  "Fecha": "2020-03-12T00:00:00.000",
+  "Código_DIVIPOLA": 76147,
+  "Ciudad_de_ubicación": "Cartago",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 41,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0371a"
+  },
+  "ID_de_caso": 185,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 76520,
+  "Ciudad_de_ubicación": "Palmira",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 58,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0371b"
+  },
+  "ID_de_caso": 186,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 76520,
+  "Ciudad_de_ubicación": "Palmira",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 50,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0371c"
+  },
+  "ID_de_caso": 187,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 74,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0371d"
+  },
+  "ID_de_caso": 188,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 76892,
+  "Ciudad_de_ubicación": "Yumbo",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Fallecido",
+  "Edad": 70,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Fallecido",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0371e"
+  },
+  "ID_de_caso": 189,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 81,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0371f"
+  },
+  "ID_de_caso": 190,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03720"
+  },
+  "ID_de_caso": 191,
+  "Fecha": "2020-03-21T00:00:00.000",
+  "Código_DIVIPOLA": 76520,
+  "Ciudad_de_ubicación": "Palmira",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 17,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03721"
+  },
+  "ID_de_caso": 192,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 30,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03722"
+  },
+  "ID_de_caso": 193,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 53,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ITALIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03723"
+  },
+  "ID_de_caso": 194,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 76520,
+  "Ciudad_de_ubicación": "Palmira",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 63,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03724"
+  },
+  "ID_de_caso": 195,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 66001,
+  "Ciudad_de_ubicación": "Pereira",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 65,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03725"
+  },
+  "ID_de_caso": 196,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 41001,
+  "Ciudad_de_ubicación": "Neiva",
+  "Departamento_o_Distrito_": "Huila",
+  "atención": "Recuperado",
+  "Edad": 50,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03726"
+  },
+  "ID_de_caso": 197,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Fallecido",
+  "Edad": 58,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Fallecido",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03727"
+  },
+  "ID_de_caso": 198,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 39,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03728"
+  },
+  "ID_de_caso": 199,
+  "Fecha": "2020-03-17T00:00:00.000",
+  "Código_DIVIPOLA": 5318,
+  "Ciudad_de_ubicación": "Guarne",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03729"
+  },
+  "ID_de_caso": 200,
+  "Fecha": "2020-03-21T00:00:00.000",
+  "Código_DIVIPOLA": 13001,
+  "Ciudad_de_ubicación": "Cartagena de Indias",
+  "Departamento_o_Distrito_": "Cartagena D.T. y C.",
+  "atención": "Recuperado",
+  "Edad": 53,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0372a"
+  },
+  "ID_de_caso": 201,
+  "Fecha": "2020-03-21T00:00:00.000",
+  "Código_DIVIPOLA": 25175,
+  "Ciudad_de_ubicación": "Chía",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 50,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0372b"
+  },
+  "ID_de_caso": 202,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 5088,
+  "Ciudad_de_ubicación": "Bello",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 26,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0372c"
+  },
+  "ID_de_caso": 203,
+  "Fecha": "2020-03-21T00:00:00.000",
+  "Código_DIVIPOLA": 8001,
+  "Ciudad_de_ubicación": "Barranquilla",
+  "Departamento_o_Distrito_": "Barranquilla D.E.",
+  "atención": "Recuperado",
+  "Edad": 24,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0372d"
+  },
+  "ID_de_caso": 204,
+  "Fecha": "2020-03-21T00:00:00.000",
+  "Código_DIVIPOLA": 8001,
+  "Ciudad_de_ubicación": "Barranquilla",
+  "Departamento_o_Distrito_": "Barranquilla D.E.",
+  "atención": "Recuperado",
+  "Edad": 35,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0372e"
+  },
+  "ID_de_caso": 205,
+  "Fecha": "2020-03-21T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0372f"
+  },
+  "ID_de_caso": 206,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 60,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03730"
+  },
+  "ID_de_caso": 207,
+  "Fecha": "2020-03-21T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 41,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "GUATEMALA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03731"
+  },
+  "ID_de_caso": 208,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 62,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03732"
+  },
+  "ID_de_caso": 209,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 68,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03733"
+  },
+  "ID_de_caso": 210,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 25754,
+  "Ciudad_de_ubicación": "Soacha",
+  "Departamento_o_Distrito_": "Cundinamarca",
+  "atención": "Recuperado",
+  "Edad": 55,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "TURQUÍA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03734"
+  },
+  "ID_de_caso": 211,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 63130,
+  "Ciudad_de_ubicación": "Calarcá",
+  "Departamento_o_Distrito_": "Quindío",
+  "atención": "Recuperado",
+  "Edad": 25,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03735"
+  },
+  "ID_de_caso": 212,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 63001,
+  "Ciudad_de_ubicación": "Armenia",
+  "Departamento_o_Distrito_": "Quindío",
+  "atención": "Recuperado",
+  "Edad": 58,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03736"
+  },
+  "ID_de_caso": 213,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 20001,
+  "Ciudad_de_ubicación": "Valledupar",
+  "Departamento_o_Distrito_": "Cesar",
+  "atención": "Recuperado",
+  "Edad": 30,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03737"
+  },
+  "ID_de_caso": 214,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 66170,
+  "Ciudad_de_ubicación": "Dosquebradas",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 56,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03738"
+  },
+  "ID_de_caso": 215,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 66170,
+  "Ciudad_de_ubicación": "Dosquebradas",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 57,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "GRECIA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03739"
+  },
+  "ID_de_caso": 216,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 66170,
+  "Ciudad_de_ubicación": "Dosquebradas",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 45,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "BRASIL"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0373a"
+  },
+  "ID_de_caso": 217,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 66001,
+  "Ciudad_de_ubicación": "Pereira",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 33,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0373b"
+  },
+  "ID_de_caso": 218,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 17380,
+  "Ciudad_de_ubicación": "La Dorada",
+  "Departamento_o_Distrito_": "Caldas",
+  "atención": "Recuperado",
+  "Edad": 24,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0373c"
+  },
+  "ID_de_caso": 219,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 17174,
+  "Ciudad_de_ubicación": "Chinchiná",
+  "Departamento_o_Distrito_": "Caldas",
+  "atención": "Recuperado",
+  "Edad": 51,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0373d"
+  },
+  "ID_de_caso": 220,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 17174,
+  "Ciudad_de_ubicación": "Chinchiná",
+  "Departamento_o_Distrito_": "Caldas",
+  "atención": "Recuperado",
+  "Edad": 47,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0373e"
+  },
+  "ID_de_caso": 221,
+  "Fecha": "2020-03-13T00:00:00.000",
+  "Código_DIVIPOLA": 68001,
+  "Ciudad_de_ubicación": "Bucaramanga",
+  "Departamento_o_Distrito_": "Santander",
+  "atención": "Recuperado",
+  "Edad": 49,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "REPÚBLICA DOMINICANA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0373f"
+  },
+  "ID_de_caso": 222,
+  "Fecha": "2020-03-22T00:00:00.000",
+  "Código_DIVIPOLA": 88001,
+  "Ciudad_de_ubicación": "San Andrés",
+  "Departamento_o_Distrito_": "Archipiélago de San Andrés Providencia y Santa Catalina",
+  "atención": "Recuperado",
+  "Edad": 36,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03740"
+  },
+  "ID_de_caso": 223,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 66001,
+  "Ciudad_de_ubicación": "Pereira",
+  "Departamento_o_Distrito_": "Risaralda",
+  "atención": "Recuperado",
+  "Edad": 73,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03741"
+  },
+  "ID_de_caso": 224,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 73001,
+  "Ciudad_de_ubicación": "Ibagué",
+  "Departamento_o_Distrito_": "Tolima",
+  "atención": "Recuperado",
+  "Edad": 19,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03742"
+  },
+  "ID_de_caso": 225,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 22,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03743"
+  },
+  "ID_de_caso": 226,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 76892,
+  "Ciudad_de_ubicación": "Yumbo",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 41,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03744"
+  },
+  "ID_de_caso": 227,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03745"
+  },
+  "ID_de_caso": 228,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 26,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03746"
+  },
+  "ID_de_caso": 229,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 85001,
+  "Ciudad_de_ubicación": "Yopal",
+  "Departamento_o_Distrito_": "Casanare",
+  "atención": "Recuperado",
+  "Edad": 38,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03747"
+  },
+  "ID_de_caso": 230,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 63001,
+  "Ciudad_de_ubicación": "Armenia",
+  "Departamento_o_Distrito_": "Quindío",
+  "atención": "Recuperado",
+  "Edad": 38,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Asintomático",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03748"
+  },
+  "ID_de_caso": 231,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 76001,
+  "Ciudad_de_ubicación": "Cali",
+  "Departamento_o_Distrito_": "Valle del Cauca",
+  "atención": "Recuperado",
+  "Edad": 46,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03749"
+  },
+  "ID_de_caso": 232,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Fallecido",
+  "Edad": 59,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Fallecido",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0374a"
+  },
+  "ID_de_caso": 233,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 64,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0374b"
+  },
+  "ID_de_caso": 234,
+  "Fecha": "2020-03-22T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 41,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0374c"
+  },
+  "ID_de_caso": 235,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 47,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0374d"
+  },
+  "ID_de_caso": 236,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 5321,
+  "Ciudad_de_ubicación": "Guatapé",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 52,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0374e"
+  },
+  "ID_de_caso": 237,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 32,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0374f"
+  },
+  "ID_de_caso": 238,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 5001,
+  "Ciudad_de_ubicación": "Medellín",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 61,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03750"
+  },
+  "ID_de_caso": 239,
+  "Fecha": "2020-03-16T00:00:00.000",
+  "Código_DIVIPOLA": 5615,
+  "Ciudad_de_ubicación": "Rionegro",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 41,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03751"
+  },
+  "ID_de_caso": 240,
+  "Fecha": "2020-03-18T00:00:00.000",
+  "Código_DIVIPOLA": 5088,
+  "Ciudad_de_ubicación": "Bello",
+  "Departamento_o_Distrito_": "Antioquia",
+  "atención": "Recuperado",
+  "Edad": 41,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03752"
+  },
+  "ID_de_caso": 241,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 58,
+  "Sexo": "F",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03753"
+  },
+  "ID_de_caso": 242,
+  "Fecha": "2020-03-20T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 49,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESTADOS UNIDOS"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03754"
+  },
+  "ID_de_caso": 243,
+  "Fecha": "2020-03-23T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 40,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03755"
+  },
+  "ID_de_caso": 244,
+  "Fecha": "2020-03-19T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 52,
+  "Sexo": "M",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "PANAMA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03756"
+  },
+  "ID_de_caso": 245,
+  "Fecha": "2020-03-23T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 72,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "TURQUÍA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03757"
+  },
+  "ID_de_caso": 246,
+  "Fecha": "2020-03-23T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 28,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03758"
+  },
+  "ID_de_caso": 247,
+  "Fecha": "2020-03-23T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 26,
+  "Sexo": "M",
+  "Tipo": "Relacionado",
+  "Estado": "Leve",
+  "País_de_procedencia": ""
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde03759"
+  },
+  "ID_de_caso": 248,
+  "Fecha": "2020-03-23T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 30,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "REPÚBLICA DOMINICANA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0375a"
+  },
+  "ID_de_caso": 249,
+  "Fecha": "2020-03-23T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Recuperado",
+  "Edad": 38,
+  "Sexo": "F",
+  "Tipo": "Importado",
+  "Estado": "Leve",
+  "País_de_procedencia": "ESPAÑA"
+},
+{
+  "_id": {
+    "$oid": "632f8aa25d792063dde0375b"
+  },
+  "ID_de_caso": 250,
+  "Fecha": "2020-03-23T00:00:00.000",
+  "Código_DIVIPOLA": 11001,
+  "Ciudad_de_ubicación": "Bogotá D.C.",
+  "Departamento_o_Distrito_": "Bogotá D.C.",
+  "atención": "Fallecido",
+  "Edad": 76,
+  "Sexo": "M",
+  "Tipo": "En estudio",
+  "Estado": "Fallecido"
+}]
