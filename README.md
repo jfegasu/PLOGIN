@@ -35,7 +35,7 @@
 |pais.html|
 |region.tml|
 
-<img src="mct.png">
+<center><img src="mct.png"></center>
 
 ## BASE DE DATOS HR
 Tablas, relaciones y datos: [HR](https://github.com/jfegasu/PLOGIN/blob/main/DATASET/HRMYSQL.sql)
