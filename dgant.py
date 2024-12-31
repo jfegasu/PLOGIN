@@ -25,7 +25,7 @@ tareas = [
     ("Diagrama casos de uso", "26/10/2023", "31/10/2023"),  # Fecha de término fija
     ("Modelo de robustez", "22/10/2023", "25/10/2023"),
     ("Analisis de historias de usuarios", "11/10/2023", "21/10/2023"),
-    ("Levantamiento de inormación", "6/10/2023", "10/10/2023"),
+    ("Levantamiento de inFormación", "6/10/2023", "10/10/2023"),
     
     
     
@@ -82,7 +82,7 @@ ax.spines['top'].set_visible(False)
 ax.spines['right'].set_visible(False)
 
 # Etiqueta en el eje de abajo
-ax.set_xlabel("Semanas 2023")
+ax.set_xlabel("Semanas 2024")
 
 # Agregar leyenda en la esquina superior derecha
 plt.legend(loc='upper right', title='Hitos')
