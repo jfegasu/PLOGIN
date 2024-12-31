@@ -326,17 +326,8 @@ tareas = [
     ("Diagrama casos de uso", "26/10/2023", "31/10/2023"),  # Fecha de término fija
     ("Modelo de robustez", "22/10/2023", "25/10/2023"),
     ("Analisis de historias de usuarios", "11/10/2023", "21/10/2023"),
-    ("Levantamiento de inFormación", "6/10/2023", "10/10/2023"),
-    
-    
-    
-    
-    
-    
-    
-    
-    
-]
+    ("Levantamiento de inFormación", "6/10/2023", "10/10/2023"), 
+    ]
 
 # Fechas de inicio y término del proyecto
 inicio_proyecto = datetime.strptime("6/10/2023", "%d/%m/%Y")
