@@ -229,6 +229,12 @@ def CorreosHTML(Para,Asunto,Cuerpo):
 # TABLAS ORM DE HR 
 
 <pre>
+from peewee import Model, CharField, IntegerField, TextField, ForeignKeyField, DateTimeField, SqliteDatabase,AutoField
+from peewee import MySQLDatabase
+from databases import *
+from flask import session
+import datetime as dt
+
 db = MySQLDatabase('mi_base_de_datos', user='root', password='mi_contraseña', host='localhost', port=3306)
 
 class Region(Model):
@@ -308,7 +314,13 @@ class JobHistory(Model):
         indexes = (
             (('employee', 'start_date'), True),  # Asegura que el par (employee_id, start_date) sea único
         )
-
+if __name__ == '__main__':
+    DATABASE.connect()  # Conectar a la base de datos
+    app.run(debug=True, port=8000, host='0.0.0.0')
+</pre>
+## CREAR TABLAS EN LA BASE DE DATOS
+<pre>
+python modelosorm.py
 </pre>
 # DIAGRAMA GANT
 <pre>
