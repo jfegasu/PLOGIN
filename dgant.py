@@ -75,14 +75,14 @@ for i, (inicio_tarea, tarea) in enumerate(zip(inicio, tarea_names)):
 ax.plot(fin_proyecto, tarea_names.index("Pruebas de sotware"), marker='o', markersize=8, color='green', label='Fin del Proyecto', linestyle='None')
 
 plt.ylabel("Etapas")
-plt.title("Diagrama de Gantt - Programa de Trabajo", fontsize=14, fontweight='bold')
+plt.title("Diagrama de Gantt - Programa de Trabajo Fábrica de SoFtware", fontsize=14, fontweight='bold')
 
 # Personalización adicional
 ax.spines['top'].set_visible(False)
 ax.spines['right'].set_visible(False)
 
 # Etiqueta en el eje de abajo
-ax.set_xlabel("Semanas 2024")
+ax.set_xlabel("Semanas 2023")
 
 # Agregar leyenda en la esquina superior derecha
 plt.legend(loc='upper right', title='Hitos')

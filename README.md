@@ -317,21 +317,30 @@ from datetime import datetime
 
 # Datos de las tareas en orden inverso
 tareas = [
-    ("Recomendaciones y Conclusiones", "6/12/2023", "9/12/2023"),
-    ("Análisis de Escenarios mediante EVA", "1/12/2023", "5/12/2023"),
-    ("Generación de Curvas de Control", "28/11/2023", "30/11/2023"),
-    ("Evaluación Económica del Proyecto Minero", "23/11/2023", "27/11/2023"),  # Fecha de término fija
-    ("Desarrollo del Cronograma en Primavera P6", "12/11/2023", "22/11/2023"),
-    ("Creación  Hoja de Programación en Excel", "4/11/2023", "11/11/2023"),
-    (" Alcance del Proyecto Minero Caso Práctico", "27/10/2023", "3/11/2023"),
-    ("Conociendo el Software Primavera P6", "18/10/2023", "26/10/2023"),
-    (" Herramientas de Planificación y Control del Cronograma", "11/10/2023", "17/10/2023"),
-    (" Importancia de la Planificación y Gestión del  Cronograma", "6/10/2023", "10/10/2023")
+    ("Pruebas de sotware", "18/11/2023", "30/11/2023"),
+    ("EndPoint aplicación", "11/11/2023", "17/11/2023"),
+    ("Modelo Físico", "4/11/2023", "10/11/2023"),
+    (" Modelo Relacional", "27/10/2023", "3/11/2023"),
+    ("Mockups", "4/11/2023", "11/11/2023"),
+    ("Documentación casos de uso", "1/11/2023", "22/11/2023"),
+    ("Diagrama casos de uso", "26/10/2023", "31/10/2023"),  # Fecha de término fija
+    ("Modelo de robustez", "22/10/2023", "25/10/2023"),
+    ("Analisis de historias de usuarios", "11/10/2023", "21/10/2023"),
+    ("Levantamiento de inFormación", "6/10/2023", "10/10/2023"),
+    
+    
+    
+    
+    
+    
+    
+    
+    
 ]
 
 # Fechas de inicio y término del proyecto
 inicio_proyecto = datetime.strptime("6/10/2023", "%d/%m/%Y")
-fin_proyecto = datetime.strptime("10/12/2023", "%d/%m/%Y")
+fin_proyecto = datetime.strptime("30/11/2023", "%d/%m/%Y")
 
 # Función para convertir la fecha en formato de cadena a objeto datetime
 def convert_date(date_str):
@@ -364,10 +373,10 @@ for i, (inicio_tarea, tarea) in enumerate(zip(inicio, tarea_names)):
         ax.plot(inicio_tarea, i, marker='o', markersize=8, color='purple', label='Desarrollo Cronograma en Primavera P6', linestyle='None')
 
 # Agregar el hito de término del proyecto
-ax.plot(fin_proyecto, tarea_names.index("Recomendaciones y Conclusiones"), marker='o', markersize=8, color='green', label='Fin del Proyecto', linestyle='None')
+ax.plot(fin_proyecto, tarea_names.index("Pruebas de sotware"), marker='o', markersize=8, color='green', label='Fin del Proyecto', linestyle='None')
 
 plt.ylabel("Etapas")
-plt.title("Diagrama de Gantt - Programa de Trabajo", fontsize=14, fontweight='bold')
+plt.title("Diagrama de Gantt - Programa de Trabajo Fábrica de SoFtware", fontsize=14, fontweight='bold')
 
 # Personalización adicional
 ax.spines['top'].set_visible(False)
