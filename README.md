@@ -382,5 +382,5 @@ plt.legend(loc='upper right', title='Hitos')
 plt.tight_layout()
 plt.show()
 </pre>
-:---
+<hr>
 <img src="gant.png">
