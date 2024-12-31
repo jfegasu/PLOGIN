@@ -221,3 +221,5 @@ def CorreosHTML(Para,Asunto,Cuerpo):
     except Exception as e:
         print(f"Error al enviar el correo: {e}")      
 </pre>
+
+[FUENTE](https://github.com/jfegasu/PLOGIN/blob/main/utils/Utilitarios.py)
