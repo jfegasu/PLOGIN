@@ -174,6 +174,7 @@ def getRegEd(clave):
     return valor                   
 </pre>
 # ENVIAR CORREO
+[INSTRUCCIONES GMAIL](https://recursospython.com/guias-y-manuales/enviar-correo-electronico-via-gmail-y-smtp/#google_vignette)
 <pre>
 def EnviaCorreo(Para,Asunto,Cuerpo):
     clave=getRegEd('pwd')
