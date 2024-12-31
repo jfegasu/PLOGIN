@@ -226,7 +226,8 @@ def CorreosHTML(Para,Asunto,Cuerpo):
 
 [FUENTE](https://github.com/jfegasu/PLOGIN/blob/main/utils/Utilitarios.py)
 
-# TABLAS ORM DE HR
+# TABLAS ORM DE HR 
+<img src='https://www.google.com/imgres?q=python%20orm%20images&imgurl=https%3A%2F%2Fachievement-images.teamtreehouse.com%2Fbadges-python-usingdatabases-stage1.png&imgrefurl=https%3A%2F%2Fcoursesity.com%2Fcourse-detail%2Fusing-databases-in-python-course&docid=0yXn72XoRlMWcM&tbnid=WOeVQlmBl-MCxM&vet=12ahUKEwiWw4rC5tCKAxUJmIQIHWf9N4kQM3oECD8QAA..i&w=1250&h=1363&hcb=2&ved=2ahUKEwiWw4rC5tCKAxUJmIQIHWf9N4kQM3oECD8QAA'>
 
 <pre>
 db = MySQLDatabase('mi_base_de_datos', user='root', password='mi_contraseña', host='localhost', port=3306)
