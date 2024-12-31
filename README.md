@@ -10,13 +10,12 @@
 |||/|USUARIO O CREDENCIALES NO VALIDOS|
 | /paso1 | MUESTRA OPCIONES| / |NO HA VALIDADO CREDENCIALES <paso1>| 
 | /cpw  |CONTRASEÑA|clogin.html [/cpw1]|
-| /cpw1 | CAMBIO DE CONTRASEÑA|||
+| /cpw1 | CAMBIO DE CONTRASEÑA|/|CAMBIO SATISFACTORIO DE CLAVE|
 |||/|CLAVE ANTERIOR NO COINCIDE <CPWD>|
 |||/|LAS NUEVAS CLAVES NO COINCIDEN|
 |||/|LA CLAVE NUEVA NO PUEDE SER LA ANTERIOR|
 |||/|Error: No cumple con las condiciones:\nAl menos debe haber Una Mayuscula, \nUn numero, Una minuscula,\n un caracter especial,\n una longitud minima de 12 caracteres|
 |||/|FALLO CAMBIO DE CLAVE|
-|||/|CAMBIO SATISFACTORIO DE CLAVE
 |/region|REGIONES|region.html|
 |||/|SESION CADUCADA|
 |||/paso1|NO TIENE ACCESO <region>|
