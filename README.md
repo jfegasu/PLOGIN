@@ -223,3 +223,88 @@ def CorreosHTML(Para,Asunto,Cuerpo):
 </pre>
 
 [FUENTE](https://github.com/jfegasu/PLOGIN/blob/main/utils/Utilitarios.py)
+
+# TABLAS ORM DE HR
+
+<pre>
+db = MySQLDatabase('mi_base_de_datos', user='root', password='mi_contraseña', host='localhost', port=3306)
+
+class Region(Model):
+    region_id = IntegerField(primary_key=True)
+    region_name = CharField(null=True)
+
+    class Meta:
+        database = db
+
+class Country(Model):
+    country_id = CharField(primary_key=True, max_length=2)
+    country_name = CharField(null=True)
+    region = ForeignKeyField(Region, backref='countries')
+
+    class Meta:
+        database = db
+
+# Tabla Locations
+class Location(Model):
+    location_id = AutoField(primary_key=True)
+    street_address = CharField(null=True)
+    postal_code = CharField(null=True)
+    city = CharField()
+    state_province = CharField(null=True)
+    country = ForeignKeyField(Country, backref='locations')
+
+    class Meta:
+        database = db
+
+# Tabla Jobs
+class Job(Model):
+    job_id = CharField(primary_key=True, max_length=10)
+    job_title = CharField()
+    min_salary = DecimalField(max_digits=8, decimal_places=0, null=True)
+    max_salary = DecimalField(max_digits=8, decimal_places=0, null=True)
+
+    class Meta:
+        database = db
+
+# Tabla Employees
+class Employee(Model):
+    employee_id = AutoField(primary_key=True)
+    first_name = CharField(null=True)
+    last_name = CharField()
+    email = CharField()
+    phone_number = CharField(null=True)
+    hire_date = DateField()
+    job = ForeignKeyField(Job, backref='employees')
+    salary = DecimalField(max_digits=8, decimal_places=2)
+    commission_pct = DecimalField(max_digits=2, decimal_places=2, null=True)
+    manager = ForeignKeyField('self', null=True, backref='subordinates')  # Auto-relación para el manager
+    department_id = ForeignKeyField('Department', backref='employees', null=True)
+
+    class Meta:
+        database = db
+
+# Tabla Departments
+class Department(Model):
+    department_id = AutoField(primary_key=True)
+    department_name = CharField()
+    manager = ForeignKeyField(Employee, null=True, backref='managed_departments')
+    location = ForeignKeyField(Location, null=True, backref='departments')
+
+    class Meta:
+        database = db
+
+# Tabla JobHistory
+class JobHistory(Model):
+    employee = ForeignKeyField(Employee, backref='job_histories')
+    start_date = DateField()
+    end_date = DateField()
+    job = ForeignKeyField(Job, backref='job_histories')
+    department = ForeignKeyField(Department, backref='job_histories')
+
+    class Meta:
+        database = db
+        indexes = (
+            (('employee', 'start_date'), True),  # Asegura que el par (employee_id, start_date) sea único
+        )
+
+</pre>
